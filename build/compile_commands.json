@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/jnq/cpp-basic-algorithm/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/cpp-basic-algorithm.dir/main.cpp.o -c /root/jnq/cpp-basic-algorithm/main.cpp",
+  "file": "/root/jnq/cpp-basic-algorithm/main.cpp"
+}
+]

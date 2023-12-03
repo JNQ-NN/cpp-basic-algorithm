@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20231203-1457-Experimental"
+	Name="VM-16-12-opencloudos"
+	Generator="ctest-3.20.2"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="8.5.0"
+	OSName="Linux"
+	Hostname="VM-16-12-opencloudos"
+	OSRelease="5.4.119-20.0009.21.spr"
+	OSVersion="#1 SMP Mon Jul 24 17:12:59 CST 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="94"
+	ProcessorCacheSize="28160"
+	NumberOfLogicalCPU="2"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="3669"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2494.14"
+	>
+	<Testing>
+		<StartDateTime>Dec 03 22:57 CST</StartDateTime>
+		<StartTestTime>1701615425</StartTestTime>
+		<TestList/>
+		<EndDateTime>Dec 03 22:57 CST</EndDateTime>
+		<EndTestTime>1701615425</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

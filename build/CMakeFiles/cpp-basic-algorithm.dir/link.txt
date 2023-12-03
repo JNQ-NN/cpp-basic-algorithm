@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/cpp-basic-algorithm.dir/main.cpp.o -o cpp-basic-algorithm 
